@@ -8,8 +8,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56.0",
-    "react-native-ibm-mobilefirst": "file:../mfp-react-native/react-native-ibm-mobilefirst.tar.gz"
+    "react-native": "0.56.0"
   },
   "devDependencies": {
     "babel-jest": "23.2.0",
