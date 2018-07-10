@@ -8,6 +8,7 @@ A sample React Native application with MobileFirst Capability which does basic O
 1. From the command-line window, navigate to the project's roots folder and run the commands:
  - `npm install react-native-ibm-mobilefirst` - to install Mobilefirst react native SDK.
  - `npm install` - to install project dependencies.
+ - `react-native link` - to link libraries to respective platforms based on dependencies.
 
 2. From a command-line window, navigate to the platforms's root folder (either iOS or Android)  and run the commands:
  - `mfpdev app register` - to register the application.
